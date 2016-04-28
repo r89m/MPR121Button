@@ -1,0 +1,14 @@
+{
+  "name": "MPR121Buttons",
+  "keywords": "button",
+  "description": "Handle MPR121Buttons, powered by Adafruit's MPR121 library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r89m/arduino-button-MPR121button.git"
+  },
+  "version": "1.0.0",
+  "include": "*/*.[ch]*",
+  "examples": "*/examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
