@@ -37,7 +37,7 @@ install:
       
   # Install Libraries
   - install_repo_as_library
-  - install repo_as_library https://github.com/r89m/Button.git
+  - install_repo_as_library https://github.com/r89m/Button.git
   - install_repo_as_library https://github.com/adafruit/Adafruit_MPR121.git
   
 script:
