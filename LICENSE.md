@@ -1,5 +1,5 @@
 #Arduino MPR121 Button Library v1.0.0
-https://github.com/shaggythesheep/arduino-button-MPR121button
+https://github.com/shaggythesheep/MPR121Button
 
 Richard Miles April 2016
 

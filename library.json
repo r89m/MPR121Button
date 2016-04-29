@@ -1,5 +1,5 @@
 {
-  "name": "MPR121Buttons",
+  "name": "MPR121Button",
   "keywords": "button",
   "description": "Handle MPR121Buttons, powered by Adafruit's MPR121 library",
   "authors":[
@@ -7,12 +7,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/r89m/arduino-button-MPR121button.git"
+    "url": "https://github.com/r89m/MPR121Button.git"
   },
   "version": "1.0.0",
   "dependencies": [
     {
-      "name": "Buttons",
+      "name": "Button",
       "authors": [
         "Richard Miles"
       ]
