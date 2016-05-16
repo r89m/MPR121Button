@@ -1,9 +1,9 @@
-# Arduino MPR121 Button
+# r89m MPR121 Button
 This library makes working with MPR121 buttons easy.
 
 Easily handle button events such as ```onPress```, ```onHold```, ```onHoldRepeat``` and ```onRelease```. The same callback functions can be used with multiple buttons, helping to keep your code cleaner and more manageable.
 
-This library relies on you having both [Button](https://github.com/r89m/Button) and [MPR121](https://github.com/adafruit/Adafruit_MPR121) libraries downloaded and available to the Arduino IDE.
+This library relies on you having both [r89m Buttons](https://github.com/r89m/Button) and [MPR121](https://github.com/adafruit/Adafruit_MPR121) libraries downloaded and available to the Arduino IDE.
 
 ## Examples
 
